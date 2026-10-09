@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^pdftotext -layout arborescence-projet-microservices\\.pdf -$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
